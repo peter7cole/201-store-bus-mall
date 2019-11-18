@@ -1,4 +1,9 @@
-/* global Product, Cart */
+/* global Product, Cart
+
+I plan to tackle this Monday night. I need to read through the comments
+and follow the instructions.
+
+*/
 
 'use strict';
 
