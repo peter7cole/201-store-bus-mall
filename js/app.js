@@ -1,5 +1,8 @@
 'use strict';
 
+//  I plan to tackle this Monday night. I need to read through the comments
+//  and follow the instructions.
+
 // Cart constructor.
 var Cart = function(items) {
   // this.items is an array of CartItem instances.
